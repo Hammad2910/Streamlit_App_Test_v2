@@ -5,7 +5,7 @@ import requests
 # -----------------------------------
 # PAGE CONFIGURATION
 # -----------------------------------
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://4384-59-103-173-116.ngrok-free.app"
 
 st.set_page_config(
     page_title="EduPredict | Student Analytics",
